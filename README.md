@@ -15,7 +15,7 @@
 
 ## Imagen
 
-![Image](https://github.com/user-attachments/assets/7db2593c-04a2-4343-8338-3fe300fb63c6)
+![Image](https://github.com/user-attachments/assets/8f883947-6a3c-4bb2-aa92-2bc3e7910a75)
 
 ## Listas 
 
