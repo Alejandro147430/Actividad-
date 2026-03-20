@@ -15,7 +15,22 @@
 
 ## Imagen
 
-¡[](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXl2YjR3MjFkd3F5dmp3bWw5NTc3djJraHQxbTdsdDhzODlsa3gzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/twQZemYIce0R6qkXRp/giphy.gif)
+![Image](https://github.com/user-attachments/assets/7db2593c-04a2-4343-8338-3fe300fb63c6)
+
+## Listas 
+
+### Listas Ordenadas
+
+1. Elemento1
+2. Elemento2
+3. Elemento3
+
+### Listas No Ordenadas
+
+1. Elemento1
+2. Elemento2
+3. Elemento3
+
 
 
 
