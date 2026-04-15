@@ -8,9 +8,22 @@
 -Musica
 -Ver series 
 -Tocar la guitarra 
+-cine
 
 ### Mis albumes favoritos 
 
+|Artista|Album|
+|-------|-----|
+|Ye| Yeezus|
+|La nube en el jardin|Ed maverick|
+|DAMN|Kendrick lamar|
 
+#### Mis series favoritas
 
+|Series|
+|------------|
+|The sopranos|
+|The wire|
+|Breking bad|
+|Better call saul|
 
